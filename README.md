@@ -32,3 +32,10 @@
 - Search Stackoverflow.com 
 - **site:stackoverflow.com "domain.com"**
 
+- Search For AWS S3 Buckets
+- **site:s3.amazonaws.com domain**
+- **site:s3.amazonaws.com domain.com**
+- **site:s3.amazonaws.com domain-com**
+- **site:s3.amazonaws.com com.domain**
+- **site:s3.amazonaws.com com-domain**
+
